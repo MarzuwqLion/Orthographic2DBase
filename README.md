@@ -1,2 +1,2 @@
 # Orthographic2DBase
-Unity 2D C# game
+Unity 2D C# files
